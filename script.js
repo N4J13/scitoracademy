@@ -69,7 +69,7 @@ courses.forEach((course) => {
 
 features.forEach(feature => {
 
-    featureBox.innerHTML += `<div class="shadow-sm p-5 rounded-lg" >
+    featureBox.innerHTML += `<div class=" p-5 rounded-lg" >
 <div class="rounded-full grid place-items-center mb-8 sm:mb-10 ${feature.color} w-20 h-20">
   <img src="${feature.image}" class="w-10" alt="">
 </div>
