@@ -6,7 +6,7 @@
 @tailwind utilities;
 
 @layer base {
-    body {
+    html {
         font-family: 'Cabinet Grotesk', sans-serif;
     }
   }
